@@ -1,4 +1,4 @@
-**+Saves folder structure of downloaded files**
+**+ Saves folder structure of downloaded files**
 
 # phonegap-downloader
 Phonegap plugin to download a List of files or a single file to the Phone, check consistency and unzip if necessary (Android and ios)
